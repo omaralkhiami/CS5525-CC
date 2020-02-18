@@ -1,6 +1,6 @@
 # CS5525-CC
 
-**Project Name:** Appointment Booking Website.<br>
+### **Project Name:** Appointment Booking Website.<br>
 <br>
 **Associate professor:** Baek-Young Choi.<br>
 **Course Number:** COMP-SCI 5525.<br> 
@@ -13,4 +13,4 @@
 2.	Ali  Alyami
 3.	Omar Alkhiami
 
-For more information about the project please see : Project Proposal : Link
+* For more information about the project please see : Project Proposal : Link *
