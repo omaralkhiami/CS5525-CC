@@ -1,10 +1,9 @@
 # CS5525-CC
-SCI 5525 - Cloud Computing (2020 Spring)
 
-**Project Name:** Appointment Booking Website.
-**Course:** COMP-SCI 5525. <br> 
-**Class:** Cloud Computing .
-
+**Project Name:** Appointment Booking Website.<br>
+**Course:** COMP-SCI 5525.<br> 
+**Class:** Cloud Computing.<br>
+**Term:** Spring 2020.<br>
 
 ### Team Members: 
 1.	Abbas Alshaikh 
