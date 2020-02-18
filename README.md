@@ -10,7 +10,7 @@ School Name: University of Missouri-Kansas City.<br>
 
 ### Team Members: 
 1. Abbas Alshaikh https://github.com/Alshaikh1abbas
-2. Ali  Alyami https://github.com/aaackc
-3. Omar Alkhiami 
+2. Ali  Alyami    https://github.com/aaackc
+3. Omar Alkhiami  
 
 * For more information about the project please see : Project Proposal : [Link](https://github.com/Alshaikh1abbas/CS5525-CC/blob/master/Cloud%20Computing%20%20-%20Proposal.docx)
