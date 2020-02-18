@@ -2,7 +2,7 @@
 SCI 5525 - Cloud Computing (2020 Spring)
 
 **Project Name:** Appointment Booking Website.
-**Course:** COMP-SCI 5525.  
+**Course:** COMP-SCI 5525. <br> 
 **Class:** Cloud Computing .
 
 
